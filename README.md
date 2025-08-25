@@ -1,3 +1,13 @@
+<h1 align="center">👋 Hello World! I'm Usama Shoaib</h1>
+
+<h3 align="center">Transforming ideas into elegant mobile solutions with Flutter</h3>
+
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Flutter+Enthusiast;Future+Backend+Developer;Tech+Explorer;Professional+and+Ambitious">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Flutter+Enthusiast;Future+Backend+Developer;Tech+Explorer;Professional+and+Ambitious" alt="Typing SVG" />
+  </a>
+</p>
+
 # 💫 About Me:
 🔭 Currently crafting magic with Flutter and Flutter FLow<br>🌱 Diving deep into Backend Development<br>�  Turning coffee into code since 2022<br>⚡ Fun fact: I'm just entering my teens but building apps like a pro!<br>🚀 Dream big: Working towards becoming a full-stack developer.
 
