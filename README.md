@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/usamashoaib786/usamashoaib786/main/Purple White Modern Mobile App Development Linkedin Background Photo.png" alt="Usama Shoaib Banner" width="100%" />
+</p>
 <h1 align="center">👋 Hello World! I'm Usama Shoaib</h1>
 
 <h3 align="center">Transforming ideas into elegant mobile solutions with Flutter</h3>
