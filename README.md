@@ -1,113 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:02569B&height=200&section=header&text=Usama%20Shoaib&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Usama%20Shoaib&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Building+with+Flutter+%26+Dart;Exploring+Firebase+%26+Backend+Dev;Turning+Ideas+Into+Apps;Always+Learning%2C+Always+Shipping)](https://git.io/typing-svg)
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/159139228?v=4&w=200&h=200&fit=cover&mask=circle&border=8,22D3EE" width="150"/>
 
-<img src="https://komarev.com/ghpvc/?username=usamashoaib786&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/usamashoaib786?style=for-the-badge&color=22D3EE&labelColor=black"/>
+### Flutter Developer · Dart · Mobile App Engineering
+📍 Lahore, Pakistan &nbsp;·&nbsp; Mobile Apps · Firebase · UI/UX
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-usama--shoaib-1C1C3A?style=flat-square&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/usama-shoaib-b19478260/)
+[![GitHub](https://img.shields.io/badge/GitHub-usamashoaib786-1C1C3A?style=flat-square&logo=github&logoColor=22D3EE)](https://github.com/usamashoaib786)
 
 </div>
 
-<br/>
+---
 
-## 🧭 About Me
-
-```yaml
-name: Usama Shoaib
-role: Flutter Developer
-focus: Mobile App Development
-currently_learning: Backend Development
-goal: Full-Stack Developer
-fun_fact: "Building real apps while most people my age are still picking a major"
+```dart
+class UsamaShoaib {
+  final String role = "Flutter Developer";
+  final String focus = "Mobile app development & UI engineering";
+  final List<String> coreSkills = ["Flutter", "Dart", "Firebase", "Figma"];
+  final String learning = "Backend development & API architecture";
+  final String openTo = "Mobile app collaborations · Junior/entry-level roles";
+}
 ```
 
-<br/>
+---
 
-## ⚙️ Tech Stack
+## 🔧 Tech Stack
 
-<div align="center">
+| Domain | Technologies |
+|---|---|
+| **Languages** | Dart |
+| **Framework** | Flutter · FlutterFlow |
+| **Backend & Cloud** | Firebase Auth · Firestore · Cloud Messaging |
+| **Real-Time** | WebSockets |
+| **APIs & Integrations** | REST APIs · Third-Party APIs · Google Maps API |
+| **AI** | Chatbot Integration |
+| **API Testing** | Postman |
+| **Design** | Figma · UI/UX Prototyping |
+| **Tools** | Git · GitHub · VS Code |
 
-**Languages & Frameworks**
-<br/>
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+---
 
-**Backend & Tools**
-<br/>
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## ⭐ Specialties
 
-**Design**
-<br/>
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 📱 Mobile App Development
+Building complete Flutter apps from UI to logic — HR tools, hospital management, task-exchange platforms, and more.
+`Flutter` `Dart` `Cross-Platform UI`
 
-</div>
+### 🔥 Firebase Integration
+Wiring up authentication, real-time data, and cloud storage to power app backends without a dedicated server.
+`Firebase Auth` `Firestore` `Cloud Messaging`
 
-<br/>
+### 🔌 Real-Time Communication
+Connecting apps to live data streams using WebSockets for instant updates and messaging.
+`WebSockets` `Real-Time Data` `Async Handling`
 
-## 🚀 Featured Projects
+### 🗺️ Google Maps & Location Services
+Integrating maps, location tracking, and geolocation features into mobile apps.
+`Google Maps API` `Geolocation` `Location Services`
 
-<div align="center">
+### 🔗 Third-Party API Integration
+Connecting apps to external services and APIs to extend functionality beyond the core app.
+`REST APIs` `Third-Party SDKs` `API Integration`
 
-<a href="https://github.com/usamashoaib786/h_r_m">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=usamashoaib786&repo=h_r_m&theme=dark&hide_border=false" />
-</a>
-<a href="https://github.com/usamashoaib786/hospitall">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=usamashoaib786&repo=hospitall&theme=dark&hide_border=false" />
-</a>
-<a href="https://github.com/usamashoaib786/task_trader">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=usamashoaib786&repo=task_trader&theme=dark&hide_border=false" />
-</a>
-<a href="https://github.com/usamashoaib786/tt_offer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=usamashoaib786&repo=tt_offer&theme=dark&hide_border=false" />
-</a>
+### 🤖 AI Chatbot Integration
+Adding conversational AI features into apps to handle user queries and interactions.
+`AI Chatbots` `Conversational UI` `API-Driven Responses`
 
-</div>
+### 🎨 UI/UX Design → Implementation
+Designing screens in Figma, then translating them directly into working Flutter widgets.
+`Figma` `Responsive Layouts` `Design Systems`
 
-> 💡 Add a one-line description to each repo (Settings → About) so these pinned cards show what the project actually does — that's the single biggest thing missing right now.
+### 🧪 API Testing & Integration
+Testing and debugging REST API calls with Postman before wiring them into the app.
+`Postman` `REST APIs` `Debugging`
 
-<br/>
+---
 
-## 📊 GitHub Analytics
+## 🏗️ Currently Exploring
 
-<div align="center">
+`Backend Development` &nbsp; `API Architecture` &nbsp; `State Management` &nbsp; `Clean Code Practices`
 
-<img src="https://github-readme-stats.vercel.app/api?username=usamashoaib786&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamashoaib786&layout=compact&theme=tokyonight&hide_border=false" width="35%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=usamashoaib786&theme=tokyonight&hide_border=false" width="70%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=usamashoaib786&theme=algolia&no-frame=true&row=1&column=7" width="90%"/>
-
-</div>
-
-<br/>
-
-## 📈 Contribution Snake
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/usamashoaib786/usamashoaib786/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<br>
+<b>🟢 Open to Mobile App collaborations & Flutter Developer opportunities</b><br><br>
+<a href="https://github.com/usamashoaib786">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/usama-shoaib-b19478260/">LinkedIn</a>
 
-</div>
+<br><br>
 
-<sub>⚠️ The snake graphic needs a one-time GitHub Action setup — see notes below.</sub>
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-shoaib-b19478260/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:22D3EE&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
